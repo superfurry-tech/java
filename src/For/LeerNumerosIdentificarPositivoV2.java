@@ -1,4 +1,4 @@
-package jar.For;
+package For;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package jar.arrays;
+package arrays.arrays_vectores;
 
 /* Queremos gestionar las notas de dos exámenes. El programa debe:
     1. Crear dos _arrays_ de tamaño 5: `examen1` y `examen2`.

@@ -1,4 +1,4 @@
-package arrays_matrices;
+package arrays.arrays_matrices;
 
 public class SalaCine
   {

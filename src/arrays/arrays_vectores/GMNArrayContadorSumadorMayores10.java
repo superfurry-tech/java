@@ -1,4 +1,4 @@
-package jar.arrays;
+package arrays.arrays_vectores;
 
 
 /*

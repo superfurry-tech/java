@@ -1,4 +1,4 @@
-package jar.metodos;
+package metodos;
 
 /*
 Ejercicio: Calculadora básica con métodos

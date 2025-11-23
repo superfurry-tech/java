@@ -1,4 +1,4 @@
-package jar.matematicas;
+package matematicas;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
